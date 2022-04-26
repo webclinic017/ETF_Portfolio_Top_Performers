@@ -35,7 +35,7 @@ Data Files and Database
 Minglu Li,
 Ken Lee,
 Rabia Talib,
-Albert Peyton,
+Albert Peyton.
 
 # Licence
 Open source project, made for educational purposes only
