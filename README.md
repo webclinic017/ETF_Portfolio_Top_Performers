@@ -32,7 +32,7 @@ Data Files and Database
 
  
 # Contributers
-Minglu Li,
+Minglu (Amber) Li,
 Ken Lee,
 Rabia Talib,
 Albert Peyton.
