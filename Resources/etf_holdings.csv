@@ -1,0 +1,1079 @@
+etf,symbol,name,pct_holding
+RYT,ENPH,Enphase Energy Inc,0.0192
+RYT,ANET,Arista Networks Inc,0.0153
+RYT,CRM,Salesforce.com Inc,0.0153
+RYT,XLNX,Xilinx Inc,0.0152
+RYT,PAYC,Paycom Software Inc,0.0151
+RYT,TYL,Tyler Technologies,0.0151
+RYT,AMD,Adv Micro Devices,0.015
+RYT,TER,Teradyne Inc,0.015
+RYT,CDAY,Ceridian Hcm Holding Inc,0.015
+RYT,NVDA,Nvidia Corp,0.0149
+RYT,MSFT,Microsoft Corp,0.0147
+RYT,ADP,Automatic Data Procs,0.0147
+RYT,PAYX,Paychex Inc,0.0147
+RYT,ADSK,Autodesk Inc,0.0147
+RYT,INTU,Intuit Inc,0.0145
+RYT,FTNT,Fortinet Inc,0.0142
+RYT,HPQ,HP Inc,0.0142
+RYT,NOW,Servicenow Inc,0.0141
+RYT,ORCL,Oracle Corp,0.014
+RYT,AVGO,Broadcom Ltd,0.014
+RYT,MPWR,Monolithic Power Sys,0.014
+RYT,KLAC,K L A-Tencor Corp,0.014
+RYT,STX,Seagate Technology Hldgs Plc,0.0139
+RYT,JNPR,Juniper Networks,0.0139
+RYT,IT,Gartner Inc,0.0139
+RYT,BR,Broadridge Financial Solutions Llc,0.0138
+RYT,ACN,Accenture Plc,0.0138
+RYT,FFIV,F5 Networks Inc,0.0137
+RYT,TDY,Teledyne Technologies Inc,0.0136
+RYT,CDNS,Cadence Design Sys,0.0136
+RYT,MSI,Motorola Solutions,0.0134
+RYT,CTSH,Cognizant Tech Sol,0.0134
+RYT,HPE,Hewlett Packard Enterprise Comp,0.0134
+RYT,ADI,Analog Devices,0.0134
+RYT,APH,Amphenol Corp,0.0134
+RYT,ANSS,Ansys Inc,0.0133
+RYT,PTC,Ptc Inc,0.0133
+RYT,VRSN,Verisign Inc,0.0132
+RYT,AAPL,Apple Inc,0.0132
+RYT,TEL,Te Connectivity Ltd,0.0132
+RYT,SNPS,Synopsys Inc,0.0132
+RYT,KEYS,Keysight Technologies Inc Comm,0.0131
+RYT,AMAT,Applied Materials,0.0131
+RYT,ADBE,Adobe Systems Inc,0.013
+RYT,JKHY,Jack Henry & Assoc,0.0129
+RYT,TXN,Texas Instruments,0.0129
+RYT,NTAP,Netapp Inc,0.0127
+RYT,CSCO,Cisco Systems Inc,0.0127
+RYT,MA,Mastercard Inc,0.0127
+RYT,FLT,Fleetcor Technologies,0.0125
+RYT,DXC,Dxc Technology Company,0.0124
+RYT,NXPI,Nxp Semiconductors,0.0124
+RYT,CDW,CDW Corp,0.0124
+RYT,SWKS,Skyworks Solutions,0.0124
+RYT,LRCX,Lam Research Corp,0.0124
+RYT,AKAM,Akamai Technologies,0.0124
+RYT,V,Visa Inc,0.0124
+RYT,MCHP,Microchip Technology,0.0124
+RYT,MU,Micron Technology,0.0123
+RYT,QRVO,Qorvo Inc,0.0123
+RYT,NLOK,Nortonlifelock Inc,0.0123
+RYT,QCOM,Qualcomm Inc,0.0122
+RYT,TRMB,Trimble Navigation,0.0122
+RYT,IPGP,Ipg Photonics Corp,0.0121
+RYT,ZBRA,Zebra Technologies,0.0121
+RYT,GLW,Corning Inc,0.012
+RYT,IBM,International Business Machines,0.012
+RYT,INTC,Intel Corp,0.0119
+RYT,WDC,Western Digital Cp,0.0118
+RYT,FIS,Fidelity National Information Services,0.0117
+RYT,FISV,Fiserv Inc,0.0117
+RYT,CTXS,Citrix Systems Inc,0.0116
+RYT,WU,Western Union Company,0.0113
+RYT,GPN,Global Payments Inc,0.0113
+RYT,PYPL,Paypal Holdings,0.0107
+RYT,AGPXX,Invesco Government & Agency Portfolio Institutio,0.0004
+RYT,RYT,S&P 500 EW Technology Invesco ETF,0
+XSW,CLSK,Cleanspark Inc,0.0083
+XSW,VERI,Veritone Inc,0.0079
+XSW,MARA,Marathon Digital Hldgs Inc,0.0077
+XSW,GSKY,Greensky Inc Cl A,0.0077
+XSW,ASAN,Asana Inc Cl A,0.0073
+XSW,APPS,Digital Turbine,0.0073
+XSW,DMRC,Digimarc Corp,0.0073
+XSW,ATEN,A10 Networks Inc,0.0072
+XSW,AFRM,Affirm Holdings Inc Cl A,0.0069
+XSW,ZUO,Zuora Inc,0.0068
+XSW,APP,Applovin Corp Cl A,0.0067
+XSW,AZPN,Aspen Technology,0.0065
+XSW,JAMF,Jamf Holding Corp,0.0065
+XSW,EBIX,Ebix Inc,0.0065
+XSW,DDOG,Datadog Inc Cl A,0.0064
+XSW,HUBS,Hubspot Inc,0.0064
+XSW,ZS,Zscaler Inc,0.0062
+XSW,TTWO,Take-Two Interacti,0.0062
+XSW,MNTV,Momentive Global Inc,0.0062
+XSW,CRM,Salesforce.com Inc,0.0061
+XSW,MSTR,Microstrategy Cl A,0.0061
+XSW,TENB,Tenable Holdings Inc,0.0061
+XSW,PAYC,Paycom Software Inc,0.0061
+XSW,TYL,Tyler Technologies,0.0061
+XSW,PCTY,Paylocity Holdings Corp,0.0061
+XSW,CDAY,Ceridian Hcm Holding Inc,0.006
+XSW,DOMO,Domo Inc Cl B,0.006
+XSW,PRGS,Progress Software,0.006
+XSW,BOX,Box Inc,0.006
+XSW,MSFT,Microsoft Corp,0.0059
+XSW,MANH,Manhattan Assoc,0.0059
+XSW,ADP,Automatic Data Procs,0.0059
+XSW,PAYX,Paychex Inc,0.0059
+XSW,ADSK,Autodesk Inc,0.0059
+XSW,VG,Vonage Holdings,0.0059
+XSW,RNG,Ringcentral Inc,0.0059
+XSW,VERX,Vertex Inc Cl A,0.0059
+XSW,EPAY,Bottomline Tech IN,0.0058
+XSW,MIME,Mimecast Ltd Ord,0.0058
+XSW,TDC,Teradata Corp,0.0058
+XSW,PING,Ping Identity Holding Corp,0.0058
+XSW,SSNC,SS&C Technologies,0.0058
+XSW,INTU,Intuit Inc,0.0058
+XSW,SPSC,Sps Commerce Inc,0.0058
+XSW,ENV,Envestnet Inc,0.0058
+XSW,SCPL,Sciplay Corp Cl A,0.0058
+XSW,RPD,Rapid7 Inc,0.0057
+XSW,ESTC,Elastic N.V.,0.0057
+XSW,UIS,Unisys Corp,0.0057
+XSW,WDAY,Workday Inc,0.0057
+XSW,QLYS,Qualys Inc,0.0057
+XSW,FTNT,Fortinet Inc,0.0057
+XSW,PANW,Palo Alto Networks Inc,0.0057
+XSW,APPF,Appfolio Cl A,0.0057
+XSW,VRNT,Verint Systems Inc,0.0057
+XSW,NOW,Servicenow Inc,0.0057
+XSW,CRWD,Crowdstrike Holdings Inc,0.0057
+XSW,VMW,Vmware Inc,0.0057
+XSW,EPAM,Epam Systems Inc,0.0057
+XSW,OSPN,Onespan Inc,0.0057
+XSW,SPLK,Splunk Inc,0.0056
+XSW,ORCL,Oracle Corp,0.0056
+XSW,DT,Dynatrace Inc,0.0056
+XSW,RAMP,Liveramp Holdings Inc,0.0056
+XSW,CSGS,C S G Sys Intl,0.0056
+XSW,NEWR,New Relic Inc,0.0056
+XSW,ALRM,Alarm.com,0.0056
+XSW,BLKB,Blackbaud Inc,0.0056
+XSW,IT,Gartner Inc,0.0056
+XSW,SAIL,Sailpoint Technologies Holdings Inc,0.0056
+XSW,ALTR,Altair Engineering Inc Cl A,0.0055
+XSW,BL,Blackline Inc,0.0055
+XSW,CRNC,Cerence Inc,0.0055
+XSW,BR,Broadridge Financial Solutions Llc,0.0055
+XSW,ACN,Accenture Plc,0.0055
+XSW,BILL,Bill.com Holdings Inc,0.0055
+XSW,WK,Workiva Llc,0.0055
+XSW,PRFT,Perficient Inc,0.0055
+XSW,ETWO,E2Open Parent Hldg,0.0055
+XSW,CDNS,Cadence Design Sys,0.0055
+XSW,CNXC,Concentrix Corp,0.0054
+XSW,GWRE,Guidewire Software Inc,0.0054
+XSW,TTD,Trade Desk Inc,0.0054
+XSW,SQ,Square,0.0054
+XSW,CDK,Cdk Global Inc,0.0054
+XSW,CTSH,Cognizant Tech Sol,0.0054
+XSW,MCFE,Mcafee Corp Cl A,0.0054
+XSW,MMS,Maximus Inc,0.0054
+XSW,ANSS,Ansys Inc,0.0054
+XSW,ZIXI,Zix Corp,0.0054
+XSW,PTC,Ptc Inc,0.0053
+XSW,AYX,Alteryx Inc,0.0053
+XSW,EXLS,Exlservice Holdings,0.0053
+XSW,AMSWA,Amer Software Inc,0.0053
+XSW,CNDT,Conduent Inc,0.0053
+XSW,QADA,Qad Inc,0.0053
+XSW,DOCU,Docusign Inc,0.0053
+XSW,VRRM,Verra Mobility Corp,0.0053
+XSW,SNPS,Synopsys Inc,0.0053
+USRT,PLD,Prologis Inc,0.0878
+USRT,EQIX,Equinix Inc,0.0615
+USRT,PSA,Public Storage,0.0406
+USRT,SPG,Simon Property Group,0.039
+USRT,DLR,Digital Realty Trust,0.0365
+USRT,WELL,Welltower Inc,0.0284
+USRT,AVB,Avalonbay Communities,0.0271
+USRT,EQR,Equity Residential,0.0263
+USRT,ARE,Alexandria Real Estate Equities,0.0258
+USRT,O,Realty Income Corp,0.0231
+USRT,EXR,Extra Space Storage Inc,0.0206
+USRT,INVH,Invitation Homes Inc,0.0194
+USRT,MAA,Mid-America Apartment Communities,0.0193
+USRT,SUI,Sun Communities,0.0183
+USRT,ESS,Essex Property Trust,0.0182
+USRT,VTR,Ventas Inc,0.0177
+USRT,DRE,Duke Realty Corp,0.0172
+USRT,PEAK,Healthpeak Properties Inc,0.0158
+USRT,BXP,Boston Properties,0.0145
+USRT,VICI,Vici Properties Inc,0.0143
+USRT,UDR,United Dominion Realty Trust,0.0135
+USRT,CPT,Camden Property Trust,0.0129
+USRT,ELS,Equity Lifestyle Properties,0.012
+USRT,WPC,W.P. Carey & Co. Llc,0.0118
+USRT,IRM,Iron Mountain Inc,0.0108
+USRT,KIM,Kimco Realty Corp,0.0107
+USRT,MPW,Medical Properties Trust,0.0104
+USRT,REG,Regency Centers Corp,0.0097
+USRT,HST,Host Marriott Financial Trust,0.0097
+USRT,VER,Vereit Inc,0.0096
+USRT,AMH,American Homes 4 Rent,0.0093
+USRT,GLPI,Gaming & Leisure,0.009
+USRT,CUBE,Cubesmart,0.0089
+USRT,LSI,Life Storage,0.0084
+USRT,CONE,Cyrusone Inc,0.0083
+USRT,LAMR,Lamar Advertis A,0.0079
+USRT,REXR,Rexford Industrial Realty Inc,0.0076
+USRT,FRT,Federal Realty Investment Trust,0.0076
+USRT,STOR,Store Capital Corp,0.0069
+USRT,AIRC,Apartment Income REIT Corp,0.0066
+USRT,NNN,National Retail Properties,0.0065
+USRT,EGP,Eastgroup Properties,0.0064
+USRT,KRC,Kilroy Realty Corp,0.0064
+USRT,COLD,Americold Realty Trust,0.0063
+USRT,VNO,Vornado Realty Trust,0.0062
+USRT,FR,First Industrial Realty Trust,0.0062
+USRT,ACC,American Campus Communities Inc,0.006
+USRT,HTA,Healthcare Trust of America,0.0059
+USRT,OHI,Omega Healthcare Investors,0.0059
+USRT,STAG,Stag Industrial Inc,0.0059
+USRT,BRX,Brixmor Property Group Inc,0.0057
+USRT,COR,Coresite Realty Corp,0.0052
+USRT,SRC,Spirit Realty Capital Inc,0.0048
+USRT,CUZ,Cousins Properties Inc,0.0048
+USRT,DEI,Douglas Emmett,0.0044
+USRT,TRNO,Terreno Realty Corp,0.0041
+USRT,NSA,National Storage Affiliates Tru,0.0041
+USRT,HR,Healthcare Realty Trust Inc,0.004
+USRT,ADC,Agree Realty Corp,0.0039
+USRT,SLG,SL Green Realty Corp,0.0038
+USRT,HIW,Highwoods Properties,0.0038
+USRT,RHP,Ryman Hospitality Properties REIT,0.0037
+USRT,KRG,Kite Realty Group Trust,0.0036
+USRT,PK,Park Hotels & Resorts Inc,0.0035
+USRT,BNL,Broadstone Net Lease Inc Cl A,0.0034
+USRT,DOC,Physicians Realty Trust,0.0033
+USRT,LXP,Lexington Realty Trust,0.0033
+USRT,MAC,Macerich Company,0.0031
+USRT,EPR,Entertainment Properties Trust,0.0031
+USRT,HPP,Hudson Pacific Properties,0.0031
+USRT,JBGS,Jbg Smith Properties,0.003
+USRT,PSB,Business Parks,0.0029
+USRT,OUT,Outfront Media Inc,0.0029
+USRT,EPRT,Essential Properties Realty Trust Inc,0.0029
+USRT,APLE,Apple Hospitality REIT Inc,0.0027
+USRT,SBRA,Sabra REIT,0.0027
+USRT,DBRG,Digitalbridge Group Inc,0.0026
+USRT,OFC,Corporate Office Properties,0.0025
+USRT,PEB,Pebblebrook Hotel Trust,0.0023
+USRT,SITC,Site Centers Corp,0.0023
+USRT,SHO,Sunstone Hotel Investors,0.0022
+USRT,IRT,Independence Realty Trust Inc,0.002
+USRT,NHI,National Health Investors,0.002
+USRT,RLJ,Rlj Lodging Trust,0.0019
+USRT,BDN,Brandywine Realty Trust,0.0018
+USRT,PDM,Piedmont Office Realty Trust,0.0018
+USRT,FCPT,Four Corners Property Trust IN,0.0018
+USRT,CXP,Columbia Property Trust Inc,0.0018
+USRT,WRE,Washington Real Estate Investment,0.0018
+USRT,ROIC,Retail Opp Invts Cp,0.0017
+USRT,XHR,Xenia Hotels & Resorts Inc,0.0016
+USRT,UE,Urban Edge Properties,0.0016
+USRT,DRH,Diamondrock Hospitality Company,0.0016
+USRT,AAT,American Assets Trust,0.0015
+USRT,CTRE,Caretrust REIT Inc,0.0015
+USRT,AKR,Acadia Realty Trust,0.0015
+USRT,ILPT,Industrial Logistics Properties Trust,0.0015
+USRT,MNR,Monmouth Real Estate Investment Corp,0.0015
+USRT,ALEX,Alexander and Baldwin Inc,0.0014
+XLRE,AMT,American Tower Corp,0.1251
+XLRE,PLD,Prologis Inc,0.1044
+XLRE,CCI,Crown Castle International Corp,0.076
+XLRE,EQIX,Equinix Inc,0.0732
+XLRE,PSA,Public Storage,0.0494
+XLRE,SPG,Simon Property Group,0.0469
+XLRE,DLR,Digital Realty Trust,0.0435
+XLRE,SBAC,SBA Communications,0.0369
+XLRE,O,Realty Income Corp,0.0361
+XLRE,CBRE,CBRE Group Inc,0.0341
+XLRE,WELL,Welltower Inc,0.0331
+XLRE,AVB,Avalonbay Communities,0.0322
+XLRE,EQR,Equity Residential,0.0287
+XLRE,ARE,Alexandria Real Estate Equities,0.0276
+XLRE,WY,Weyerhaeuser Company,0.0261
+XLRE,EXR,Extra Space Storage Inc,0.0257
+XLRE,MAA,Mid-America Apartment Communities,0.0231
+XLRE,ESS,Essex Property Trust,0.0215
+XLRE,DRE,Duke Realty Corp,0.0207
+XLRE,VTR,Ventas Inc,0.0205
+XLRE,PEAK,Healthpeak Properties Inc,0.0187
+XLRE,BXP,Boston Properties,0.0157
+XLRE,UDR,United Dominion Realty Trust,0.0151
+XLRE,KIM,Kimco Realty Corp,0.0135
+XLRE,IRM,Iron Mountain Inc,0.0129
+XLRE,HST,Host Marriott Financial Trust,0.0117
+XLRE,REG,Regency Centers Corp,0.0105
+XLRE,FRT,Federal Realty Investment Trust,0.0082
+XLRE,VNO,Vornado Realty Trust,0.0066
+XLRE,VER,Vereit Inc,0.0022
+RWR,PLD,Prologis Inc,0.1027
+RWR,PSA,Public Storage,0.0485
+RWR,SPG,Simon Property Group,0.0462
+RWR,DLR,Digital Realty Trust,0.0428
+RWR,WELL,Welltower Inc,0.0326
+RWR,AVB,Avalonbay Communities,0.0317
+RWR,EQR,Equity Residential,0.0282
+RWR,ARE,Alexandria Real Estate Equities,0.0272
+RWR,O,Realty Income Corp,0.0267
+RWR,EXR,Extra Space Storage Inc,0.0253
+RWR,INVH,Invitation Homes Inc,0.0228
+RWR,MAA,Mid-America Apartment Communities,0.0227
+RWR,SUI,Sun Communities,0.0218
+RWR,ESS,Essex Property Trust,0.0212
+RWR,DRE,Duke Realty Corp,0.0204
+RWR,VTR,Ventas Inc,0.0202
+RWR,PEAK,Healthpeak Properties Inc,0.0184
+RWR,CPT,Camden Property Trust,0.0157
+RWR,BXP,Boston Properties,0.0155
+RWR,UDR,United Dominion Realty Trust,0.0149
+RWR,ELS,Equity Lifestyle Properties,0.0138
+RWR,WPC,W.P. Carey & Co. Llc,0.0136
+RWR,KIM,Kimco Realty Corp,0.0133
+RWR,HST,Host Marriott Financial Trust,0.0115
+RWR,VER,Vereit Inc,0.0111
+RWR,AMH,American Homes 4 Rent,0.0107
+RWR,CUBE,Cubesmart,0.0106
+RWR,REG,Regency Centers Corp,0.0103
+RWR,LSI,Life Storage,0.01
+RWR,REXR,Rexford Industrial Realty Inc,0.0089
+RWR,FRT,Federal Realty Investment Trust,0.0081
+RWR,AIRC,Apartment Income REIT Corp,0.0081
+RWR,STOR,Store Capital Corp,0.008
+RWR,EGP,Eastgroup Properties,0.0077
+RWR,NNN,National Retail Properties,0.0076
+RWR,COLD,Americold Realty Trust,0.0074
+RWR,FR,First Industrial Realty Trust,0.0072
+RWR,ACC,American Campus Communities Inc,0.0072
+RWR,HTA,Healthcare Trust of America,0.007
+RWR,KRC,Kilroy Realty Corp,0.0068
+RWR,STAG,Stag Industrial Inc,0.0068
+RWR,OHI,Omega Healthcare Investors,0.0067
+RWR,BRX,Brixmor Property Group Inc,0.0067
+RWR,VNO,Vornado Realty Trust,0.0065
+RWR,IIPR,Innovative Industrial Properties,0.006
+RWR,CUZ,Cousins Properties Inc,0.0056
+RWR,SRC,Spirit Realty Capital Inc,0.0055
+RWR,DEI,Douglas Emmett,0.0055
+RWR,TRNO,Terreno Realty Corp,0.005
+RWR,NSA,National Storage Affiliates Tru,0.0049
+RWR,ADC,Agree Realty Corp,0.0047
+RWR,HR,Healthcare Realty Trust Inc,0.0046
+RWR,SLG,SL Green Realty Corp,0.0045
+RWR,RHP,Ryman Hospitality Properties REIT,0.0045
+RWR,HIW,Highwoods Properties,0.0045
+RWR,KRG,Kite Realty Group Trust,0.0043
+RWR,PK,Park Hotels & Resorts Inc,0.0042
+RWR,BNL,Broadstone Net Lease Inc Cl A,0.0041
+RWR,LXP,Lexington Realty Trust,0.0039
+RWR,HPP,Hudson Pacific Properties,0.0038
+RWR,MAC,Macerich Company,0.0037
+RWR,EPR,Entertainment Properties Trust,0.0036
+RWR,PSB,Business Parks,0.0035
+RWR,EPRT,Essential Properties Realty Trust Inc,0.0034
+RWR,APLE,Apple Hospitality REIT Inc,0.0032
+RWR,JBGS,Jbg Smith Properties,0.0031
+RWR,EQC,Equity Commonwealth,0.003
+RWR,OFC,Corporate Office Properties,0.0029
+RWR,PEB,Pebblebrook Hotel Trust,0.0028
+RWR,SITC,Site Centers Corp,0.0027
+RWR,SHO,Sunstone Hotel Investors,0.0026
+RWR,IRT,Independence Realty Trust Inc,0.0024
+RWR,NHI,National Health Investors,0.0024
+RWR,RLJ,Rlj Lodging Trust,0.0023
+RWR,BDN,Brandywine Realty Trust,0.0022
+RWR,FCPT,Four Corners Property Trust IN,0.0021
+RWR,CXP,Columbia Property Trust Inc,0.0021
+RWR,PDM,Piedmont Office Realty Trust,0.0021
+RWR,ROIC,Retail Opp Invts Cp,0.0021
+RWR,WRE,Washington Real Estate Investment,0.002
+RWR,CTRE,Caretrust REIT Inc,0.0019
+RWR,XHR,Xenia Hotels & Resorts Inc,0.0019
+RWR,UE,Urban Edge Properties,0.0019
+RWR,AAT,American Assets Trust,0.0019
+RWR,DRH,Diamondrock Hospitality Company,0.0018
+RWR,MNR,Monmouth Real Estate Investment Corp,0.0018
+RWR,AKR,Acadia Realty Trust,0.0018
+RWR,ILPT,Industrial Logistics Properties Trust,0.0018
+RWR,DEA,Easterly Government Properties,0.0017
+RWR,SVC,Service Properties Trust,0.0017
+RWR,SKT,Tanger Factory Outlet Centers,0.0017
+RWR,NXRT,Nexpoint Residential Trust Inc,0.0015
+RWR,GNL,Global Net Lease Inc,0.0015
+RWR,CLI,Mack-Cali Realty Corp,0.0014
+RWR,PGRE,Paramount Group Inc,0.0013
+RWR,ESRT,Empire State Realty Trust Inc,0.0013
+RWR,CSR,Centerspace,0.0013
+RWR,LTC,Ltc Properties,0.0012
+RWR,OPI,Office Properties Income Trust,0.0012
+BBUS,AAPL,Apple Inc,0.0544
+BBUS,MSFT,Microsoft Corp,0.05
+BBUS,AMZN,Amazon.com Inc,0.0377
+BBUS,FB,Meta Platforms Inc,0.0204
+BBUS,GOOGL,Alphabet Cl A,0.0188
+BBUS,GOOG,Alphabet Cl C,0.0184
+BBUS,BRK.B,Berkshire Hathaway Cl B,0.0145
+BBUS,TSLA,Tesla Inc,0.0139
+BBUS,JPM,JP Morgan Chase & Company,0.0129
+BBUS,JNJ,Johnson & Johnson,0.0118
+BBUS,UNH,Unitedhealth Group Inc,0.0105
+BBUS,V,Visa Inc,0.0105
+BBUS,NVDA,Nvidia Corp,0.0097
+BBUS,HD,Home Depot,0.0096
+BBUS,DIS,Walt Disney Company,0.0089
+BBUS,PG,Procter & Gamble Company,0.0088
+BBUS,MA,Mastercard Inc,0.0087
+BBUS,BAC,Bank of America Corp,0.0085
+BBUS,PYPL,Paypal Holdings,0.0078
+BBUS,XOM,Exxon Mobil Corp,0.0069
+BBUS,CMCSA,Comcast Corp A,0.0069
+BBUS,VZ,Verizon Communications Inc,0.0065
+BBUS,ADBE,Adobe Systems Inc,0.0063
+BBUS,INTC,Intel Corp,0.0062
+BBUS,T,AT&T Inc,0.0061
+BBUS,PFE,Pfizer Inc,0.006
+BBUS,NFLX,Netflix Inc,0.0059
+BBUS,CSCO,Cisco Systems Inc,0.0058
+BBUS,ABT,Abbott Laboratories,0.0057
+BBUS,CVX,Chevron Corp,0.0056
+BBUS,KO,Coca-Cola Company,0.0056
+BBUS,ABBV,Abbvie Inc,0.0055
+BBUS,PEP,Pepsico Inc,0.0053
+BBUS,CRM,Salesforce.com Inc,0.0053
+BBUS,MRK,Merck & Company,0.0053
+BBUS,WMT,Wal-Mart Stores,0.0052
+BBUS,WFC,Wells Fargo & Company,0.0051
+BBUS,TMO,Thermo Fisher Scientific Inc,0.0049
+BBUS,ACN,Accenture Plc,0.0049
+BBUS,AVGO,Broadcom Ltd,0.0049
+BBUS,MCD,McDonald's Corp,0.0047
+BBUS,MDT,Medtronic Inc,0.0046
+BBUS,NKE,Nike Inc,0.0045
+BBUS,TXN,Texas Instruments,0.0045
+BBUS,COST,Costco Wholesale,0.0044
+BBUS,DHR,Danaher Corp,0.0043
+BBUS,HON,Honeywell International Inc,0.0042
+BBUS,UPS,United Parcel Service,0.0042
+BBUS,C,Citigroup Inc,0.0041
+BBUS,LLY,Eli Lilly and Company,0.0041
+BBUS,QCOM,Qualcomm Inc,0.0041
+BBUS,LIN,Linde Plc,0.0041
+BBUS,UNP,Union Pacific Corp,0.004
+BBUS,PM,Philip Morris International Inc,0.004
+BBUS,ORCL,Oracle Corp,0.004
+BBUS,LOW,Lowe's Companies,0.0039
+BBUS,BMY,Bristol-Myers Squibb Company,0.0039
+BBUS,NEE,Nextera Energy,0.0039
+BBUS,AMGN,Amgen Inc,0.0039
+BBUS,SBUX,Starbucks Corp,0.0036
+BBUS,IBM,International Business Machines,0.0035
+BBUS,CAT,Caterpillar Inc,0.0035
+BBUS,RTX,Raytheon Technologies Corp,0.0034
+BBUS,MS,Morgan Stanley,0.0034
+BBUS,BA,Boeing Company,0.0034
+BBUS,GS,Goldman Sachs Group,0.0033
+BBUS,BLK,Blackrock Inc,0.0033
+BBUS,AMAT,Applied Materials,0.0032
+BBUS,DE,Deere & Company,0.0032
+BBUS,MMM,3M Company,0.0031
+BBUS,GE,General Electric Company,0.0031
+BBUS,AMT,American Tower Corp,0.003
+BBUS,CVS,CVS Corp,0.0029
+BBUS,INTU,Intuit Inc,0.0029
+BBUS,TGT,Target Corp,0.0029
+BBUS,SCHW,The Charles Schwab Corp,0.0029
+BBUS,AXP,American Express Company,0.0027
+BBUS,ISRG,Intuitive Surg Inc,0.0027
+BBUS,MU,Micron Technology,0.0026
+BBUS,ANTM,Anthem Inc,0.0026
+BBUS,LMT,Lockheed Martin Corp,0.0026
+BBUS,BKNG,Booking Holdings Inc,0.0026
+BBUS,SPGI,S&P Global Inc,0.0025
+BBUS,CHTR,Charter Communicatio,0.0025
+BBUS,AMD,Adv Micro Devices,0.0025
+BBUS,NOW,Servicenow Inc,0.0025
+BBUS,FIS,Fidelity National Information Services,0.0025
+BBUS,CI,Cigna Corp,0.0024
+BBUS,SQ,Square,0.0024
+BBUS,MO,Altria Group,0.0024
+BBUS,LRCX,Lam Research Corp,0.0024
+BBUS,MDLZ,Mondelez Intl Inc,0.0023
+BBUS,TJX,TJX Companies,0.0023
+BBUS,PLD,Prologis Inc,0.0023
+BBUS,GILD,Gilead Sciences Inc,0.0023
+BBUS,SYK,Stryker Corp,0.0022
+BBUS,ADP,Automatic Data Procs,0.0022
+BBUS,ZTS,Zoetis Inc Cl A,0.0022
+BBUS,USB,U.S. Bancorp,0.0022
+JMOM,TSLA,Tesla Inc,0.0209
+JMOM,AMZN,Amazon.com Inc,0.0192
+JMOM,MSFT,Microsoft Corp,0.019
+JMOM,HD,Home Depot,0.019
+JMOM,NVDA,Nvidia Corp,0.018
+JMOM,V,Visa Inc,0.0175
+JMOM,AAPL,Apple Inc,0.0175
+JMOM,MA,Mastercard Inc,0.0163
+JMOM,PYPL,Paypal Holdings,0.0154
+JMOM,PG,Procter & Gamble Company,0.0132
+JMOM,ADBE,Adobe Systems Inc,0.0129
+JMOM,CRM,Salesforce.com Inc,0.0107
+JMOM,TMO,Thermo Fisher Scientific Inc,0.0105
+JMOM,AVGO,Broadcom Ltd,0.0097
+JMOM,UNH,Unitedhealth Group Inc,0.0095
+JMOM,DHR,Danaher Corp,0.0095
+JMOM,NKE,Nike Inc,0.0091
+JMOM,LLY,Eli Lilly and Company,0.0091
+JMOM,UPS,United Parcel Service,0.0091
+JMOM,TXN,Texas Instruments,0.0091
+JMOM,COST,Costco Wholesale,0.0088
+JMOM,NEE,Nextera Energy,0.0086
+JMOM,BLK,Blackrock Inc,0.0079
+JMOM,SBUX,Starbucks Corp,0.0078
+JMOM,AMAT,Applied Materials,0.0076
+JMOM,DE,Deere & Company,0.0075
+JMOM,TGT,Target Corp,0.0072
+JMOM,CVX,Chevron Corp,0.0068
+JMOM,VZ,Verizon Communications Inc,0.0067
+JMOM,INTU,Intuit Inc,0.0064
+JMOM,SPGI,S&P Global Inc,0.0064
+JMOM,CHTR,Charter Communicatio,0.0062
+JMOM,NOW,Servicenow Inc,0.0062
+JMOM,ISRG,Intuitive Surg Inc,0.0061
+JMOM,AMD,Adv Micro Devices,0.0061
+JMOM,LRCX,Lam Research Corp,0.0061
+JMOM,ZTS,Zoetis Inc Cl A,0.006
+JMOM,GS,Goldman Sachs Group,0.006
+JMOM,MS,Morgan Stanley,0.006
+JMOM,SQ,Square,0.0059
+JMOM,NSC,Norfolk Southern Corp,0.0054
+JMOM,PLD,Prologis Inc,0.0053
+JMOM,FDX,Fedex Corp,0.0052
+JMOM,SCHW,The Charles Schwab Corp,0.0052
+JMOM,TJX,TJX Companies,0.0051
+JMOM,TMUS,T-Mobile US,0.0051
+JMOM,EL,Estee Lauder Companies,0.0049
+JMOM,MRVL,Marvell Technology Inc,0.0049
+JMOM,EQIX,Equinix Inc,0.0049
+JMOM,ADSK,Autodesk Inc,0.0048
+JMOM,PGR,Progressive Corp,0.0047
+JMOM,CCI,Crown Castle International Corp,0.0047
+JMOM,MMC,Marsh & Mclennan Companies,0.0047
+JMOM,QCOM,Qualcomm Inc,0.0046
+JMOM,DG,Dollar General Corp,0.0046
+JMOM,MRNA,Moderna Inc,0.0044
+JMOM,KLAC,K L A-Tencor Corp,0.0042
+JMOM,HUM,Humana Inc,0.0042
+JMOM,MCO,Moody's Corp,0.0042
+JMOM,AON,AON Plc,0.0041
+JMOM,TWLO,Twilio,0.0041
+JMOM,ECL,Ecolab Inc,0.0041
+JMOM,ZM,Zoom Video Communications Cl A,0.004
+JMOM,IDXX,Idexx Laboratories,0.004
+JMOM,A,Agilent Technologies,0.004
+JMOM,MSCI,MSCI Inc,0.0038
+JMOM,CMG,Chipotle Mexican Grill,0.0038
+JMOM,KKR,KKR & Co. LP,0.0038
+JMOM,CMCSA,Comcast Corp A,0.0038
+JMOM,APD,Air Products and Chemicals,0.0037
+JMOM,KSU,Kansas City Southern,0.0037
+JMOM,MTD,Mettler-Toledo International,0.0037
+JMOM,CTVA,Corteva Inc,0.0036
+JMOM,SNPS,Synopsys Inc,0.0036
+JMOM,SIVB,Svb Financial Group,0.0035
+JMOM,VEEV,Veeva Systems Inc,0.0035
+JMOM,ANSS,Ansys Inc,0.0035
+JMOM,EPAM,Epam Systems Inc,0.0035
+JMOM,MNST,Monster Beverage Cp,0.0035
+JMOM,CDNS,Cadence Design Sys,0.0035
+JMOM,AJG,Arthur J. Gallagher & Company,0.0035
+JMOM,WST,West Pharmaceutical Services,0.0035
+JMOM,DOCU,Docusign Inc,0.0034
+JMOM,FCX,Freeport-Mcmoran Inc,0.0034
+JMOM,PANW,Palo Alto Networks Inc,0.0034
+JMOM,ODFL,Old Dominion Freight Line Inc,0.0034
+JMOM,OKTA,Okta Inc Cl A,0.0034
+JMOM,AWK,American Water Works,0.0034
+JMOM,CRWD,Crowdstrike Holdings Inc,0.0033
+JMOM,BLL,Ball Corp,0.0033
+JMOM,LULU,Lululemon Athletica,0.0033
+JMOM,CSGP,Costar Group Inc,0.0033
+JMOM,POOL,Pool Corp,0.0033
+JMOM,WLTW,Willis Towers WT,0.0032
+JMOM,CPRT,Copart Inc,0.0032
+JMOM,SWKS,Skyworks Solutions,0.0032
+JMOM,LBRDK,Liberty Broadbd C,0.0032
+JMOM,TEAM,Atlassian Cls A Ord,0.0032
+JMOM,KEYS,Keysight Technologies Inc Comm,0.0032
+JMOM,ROKU,Roku Inc,0.0031
+SPMD,SEDG,Solaredge Tech,0.0076
+SPMD,SBNY,Signature Bank,0.0074
+SPMD,MOH,Molina Healthcare Inc,0.0071
+SPMD,FDS,Factset Research Systems Inc,0.0069
+SPMD,CPT,Camden Property Trust,0.0067
+SPMD,CGNX,Cognex Cp,0.0063
+SPMD,RGEN,Repligen Cp,0.0061
+SPMD,MASI,Masimo Corp,0.0059
+SPMD,WSM,Williams-Sonoma,0.0057
+SPMD,WOLF,Wolfspeed Inc,0.0056
+SPMD,NDSN,Nordson Corp,0.0056
+SPMD,DAR,Darling International Inc,0.0056
+SPMD,JLL,Jones Lang Lasalle Inc,0.0054
+SPMD,STLD,Steel Dynamics Inc,0.0052
+SPMD,GGG,Graco Inc,0.0052
+SPMD,MPW,Medical Properties Trust,0.0052
+SPMD,TRGP,Targa Resources,0.0051
+SPMD,TREX,Trex Company,0.005
+SPMD,BLDR,Builders Firstsource,0.0049
+SPMD,PCTY,Paylocity Holdings Corp,0.0049
+SPMD,RUN,Sunrun Inc,0.0049
+SPMD,FSLR,First Solar Inc,0.0048
+SPMD,AXON,Axon Enterprise Inc,0.0048
+SPMD,CSL,Carlisle Companies Inc,0.0047
+SPMD,MANH,Manhattan Assoc,0.0047
+SPMD,SCI,Service Corp International,0.0047
+SPMD,GME,Gamestop Corp,0.0047
+SPMD,RPM,RPM International Inc,0.0046
+SPMD,FICO,Fair Isaac and Company,0.0046
+SPMD,EWBC,East West Bancorp,0.0046
+SPMD,RH,Restoration Hardware Holdings,0.0046
+SPMD,FIVE,Five Below Inc,0.0045
+SPMD,CLF,Cleveland-Cliffs Inc,0.0045
+SPMD,DECK,Deckers Outdoor Corp,0.0045
+SPMD,HUBB,Hubbell Inc B,0.0044
+SPMD,AZPN,Aspen Technology,0.0043
+SPMD,WTRG,Essential Utilities Inc,0.0043
+SPMD,LSI,Life Storage,0.0043
+SPMD,RRX,Regal Rexnord Corp,0.0042
+SPMD,LII,Lennox International,0.0042
+SPMD,LEA,Lear Corp,0.0042
+SPMD,TTC,Toro Company,0.0042
+SPMD,HRC,Hill-Rom Holdings Inc,0.0042
+SPMD,CONE,Cyrusone Inc,0.0042
+SPMD,MIDD,Middleby Corp,0.0041
+SPMD,CROX,Crocs Inc,0.0041
+SPMD,NBIX,Neurocrine Bioscienc,0.0041
+SPMD,ACM,Aecom Technology Corp,0.004
+SPMD,LAMR,Lamar Advertis A,0.004
+SPMD,SYNH,Syneos Health Inc,0.004
+SPMD,LAD,Lithia Motors,0.0039
+SPMD,OC,Owens Corning Inc,0.0039
+SPMD,WSO,Watsco Inc,0.0039
+SPMD,PEN,Penumbra Inc,0.0039
+SPMD,TTEK,Tetra Tech Inc,0.0039
+SPMD,LSCC,Lattice Semicond,0.0039
+SPMD,KNX,Knight-Swift Transporation Inc,0.0038
+SPMD,FHN,First Horizon Corp,0.0038
+SPMD,RS,Reliance Steel & Aluminum Company,0.0038
+SPMD,REXR,Rexford Industrial Realty Inc,0.0038
+SPMD,NYT,New York Times Company,0.0037
+SPMD,UGI,Ugi Corp,0.0037
+SPMD,Y,Alleghany Corp,0.0037
+SPMD,AFG,American Financial Group,0.0037
+SPMD,GXO,Gxo Logistics Inc,0.0036
+SPMD,JBL,Jabil Circuit,0.0036
+SPMD,TPX,Tempur-Pedic International Inc,0.0036
+SPMD,BRKS,Brooks Automation,0.0035
+SPMD,YETI,Yeti Holdings Inc,0.0035
+SPMD,TNDM,Tandem Diabetes Care,0.0035
+SPMD,G,Genpact Ltd,0.0035
+SPMD,UTHR,United Therapeutic,0.0035
+SPMD,JEF,Jefferies Financial Group Inc,0.0035
+SPMD,BLD,Topbuild Corp,0.0035
+SPMD,LECO,Lincoln Elec Holdings,0.0035
+SPMD,XPO,Xpo Logistics Inc,0.0035
+SPMD,GNTX,Gentex Corp,0.0035
+SPMD,CABO,Cable One Inc,0.0034
+SPMD,AIRC,Apartment Income REIT Corp,0.0034
+SPMD,CIEN,Ciena Corp,0.0034
+SPMD,STOR,Store Capital Corp,0.0034
+SPMD,MKSI,Mks Instruments Inc,0.0034
+SPMD,ARW,Arrow Electronics,0.0034
+SPMD,SAIA,Saia Inc,0.0034
+SPMD,OLN,Olin Corp,0.0034
+SPMD,DKS,Dick's Sporting Goods Inc,0.0033
+SPMD,CAR,Avis Budget Group,0.0033
+SPMD,JAZZ,Jazz Pharma Plc,0.0033
+SPMD,ITT,ITT Inc,0.0033
+SPMD,CPRI,Capri Holdings Ltd,0.0033
+SPMD,IAA,Iaa Inc,0.0033
+SPMD,FAF,First American Corp,0.0033
+SPMD,RGA,Reinsurance Group of America Inc,0.0033
+SPMD,BJ,Bj's Wholesale Club Holdings Inc,0.0033
+SPMD,JHG,Janus Henderson Group Plc,0.0033
+SPMD,EGP,Eastgroup Properties,0.0033
+SPMD,CHDN,Churchill Downs IN,0.0033
+SPMD,ATR,Aptargroup,0.0033
+SPMD,NNN,National Retail Properties,0.0033
+SPMD,OLED,Universal Display,0.0033
+MDYG,SEDG,Solaredge Tech,0.0161
+MDYG,FDS,Factset Research Systems Inc,0.0146
+MDYG,CGNX,Cognex Cp,0.0135
+MDYG,RGEN,Repligen Cp,0.0129
+MDYG,MASI,Masimo Corp,0.0125
+MDYG,WSM,Williams-Sonoma,0.0121
+MDYG,WOLF,Wolfspeed Inc,0.0121
+MDYG,DAR,Darling International Inc,0.0119
+MDYG,GGG,Graco Inc,0.0111
+MDYG,TREX,Trex Company,0.0107
+MDYG,PCTY,Paylocity Holdings Corp,0.0104
+MDYG,RUN,Sunrun Inc,0.0103
+MDYG,FSLR,First Solar Inc,0.0103
+MDYG,AXON,Axon Enterprise Inc,0.0103
+MDYG,MANH,Manhattan Assoc,0.01
+MDYG,FICO,Fair Isaac and Company,0.0098
+MDYG,RH,Restoration Hardware Holdings,0.0098
+MDYG,FIVE,Five Below Inc,0.0096
+MDYG,CLF,Cleveland-Cliffs Inc,0.0095
+MDYG,DECK,Deckers Outdoor Corp,0.0095
+MDYG,TTC,Toro Company,0.0089
+MDYG,CONE,Cyrusone Inc,0.0088
+MDYG,CROX,Crocs Inc,0.0088
+MDYG,NBIX,Neurocrine Bioscienc,0.0087
+MDYG,SYNH,Syneos Health Inc,0.0084
+MDYG,LAD,Lithia Motors,0.0084
+MDYG,PEN,Penumbra Inc,0.0083
+MDYG,TTEK,Tetra Tech Inc,0.0083
+MDYG,LSCC,Lattice Semicond,0.0082
+MDYG,KNX,Knight-Swift Transporation Inc,0.0082
+MDYG,MOH,Molina Healthcare Inc,0.0081
+MDYG,NYT,New York Times Company,0.0079
+MDYG,TPX,Tempur-Pedic International Inc,0.0076
+MDYG,BRKS,Brooks Automation,0.0075
+MDYG,NDSN,Nordson Corp,0.0075
+MDYG,YETI,Yeti Holdings Inc,0.0075
+MDYG,CABO,Cable One Inc,0.0074
+MDYG,BLD,Topbuild Corp,0.0074
+MDYG,LECO,Lincoln Elec Holdings,0.0074
+MDYG,MKSI,Mks Instruments Inc,0.0072
+MDYG,SAIA,Saia Inc,0.0071
+MDYG,JAZZ,Jazz Pharma Plc,0.0071
+MDYG,IAA,Iaa Inc,0.007
+MDYG,CHDN,Churchill Downs IN,0.0069
+MDYG,OLED,Universal Display,0.0069
+MDYG,CPT,Camden Property Trust,0.0067
+MDYG,MAT,Mattel Inc,0.0066
+MDYG,CHE,Chemed Inc,0.0066
+MDYG,APPS,Digital Turbine,0.0065
+MDYG,AZPN,Aspen Technology,0.0064
+MDYG,LFUS,Littelfuse Inc,0.0063
+MDYG,RPM,RPM International Inc,0.0061
+MDYG,SCI,Service Corp International,0.006
+MDYG,EXEL,Exelixis Inc,0.0059
+MDYG,FOXF,Fox Factory Cp,0.0059
+MDYG,CSL,Carlisle Companies Inc,0.0059
+MDYG,ARWR,Arrowhead Pharma,0.0058
+MDYG,PRI,Primerica Inc,0.0058
+MDYG,MEDP,Medpace Holdings Inc,0.0057
+MDYG,HUBB,Hubbell Inc B,0.0056
+MDYG,IIVI,I I V I Inc,0.0055
+MDYG,ASGN,On Assignment,0.0055
+MDYG,SBNY,Signature Bank,0.0055
+MDYG,LITE,Lumentum Holdings,0.0055
+MDYG,TXRH,Texas Roadhouse Inc,0.0054
+MDYG,IBKR,Interactive Brokers,0.0054
+MDYG,MIDD,Middleby Corp,0.0054
+MDYG,SMG,Scotts Miracle-Gro Company,0.0053
+MDYG,GMED,Globus Medical Inc,0.0053
+MDYG,LII,Lennox International,0.0052
+MDYG,BLDR,Builders Firstsource,0.0051
+MDYG,WSO,Watsco Inc,0.0051
+MDYG,STAA,Staar Surgical Company,0.0049
+MDYG,SLM,SLM Corp,0.0049
+MDYG,MSA,Msa Safety Inc,0.0048
+MDYG,HQY,Healthequity,0.0048
+MDYG,AMED,Amedisys Inc,0.0048
+MDYG,SMTC,Semtech Corp,0.0048
+MDYG,REXR,Rexford Industrial Realty Inc,0.0048
+MDYG,LSI,Life Storage,0.0047
+MDYG,HELE,Helen of Troy Ltd,0.0047
+MDYG,HALO,Halozyme Therapeutic,0.0047
+MDYG,GME,Gamestop Corp,0.0047
+MDYG,TNDM,Tandem Diabetes Care,0.0046
+MDYG,WTRG,Essential Utilities Inc,0.0046
+MDYG,G,Genpact Ltd,0.0045
+MDYG,RRX,Regal Rexnord Corp,0.0045
+MDYG,WING,Wingstop Inc,0.0045
+MDYG,QDEL,Quidel Cp,0.0044
+MDYG,MPW,Medical Properties Trust,0.0043
+MDYG,FCN,Fti Consulting,0.0043
+MDYG,LAMR,Lamar Advertis A,0.0043
+MDYG,TKR,Timken Company,0.0043
+MDYG,GNTX,Gentex Corp,0.0043
+MDYG,ATR,Aptargroup,0.0042
+MDYG,SAM,Boston Beer Company,0.004
+MDYG,EGP,Eastgroup Properties,0.004
+MDYG,MIME,Mimecast Ltd Ord,0.004
+MDYG,SSD,Simpson Manufacturing Company,0.004
+MDYG,GXO,Gxo Logistics Inc,0.0039
+SLY,M,Macy's Inc,0.0078
+SLY,OMCL,Omnicell Inc,0.0073
+SLY,GTLS,Chart Industries IN,0.006
+SLY,IIPR,Innovative Industrial Properties,0.0059
+SLY,POWI,Power Integratn,0.0059
+SLY,RRC,Range Resources Corp,0.0057
+SLY,EXPO,Exponent Inc,0.0056
+SLY,NEO,Neogenomics Inc,0.0053
+SLY,SPSC,Sps Commerce Inc,0.0052
+SLY,WTS,Watts Water Technologies,0.0049
+SLY,PDCE,Pdc Energy Inc,0.0049
+SLY,UFPI,Universal Forest Prd,0.0048
+SLY,BCPC,Balchem Cp,0.0047
+SLY,ADC,Agree Realty Corp,0.0046
+SLY,SIG,Signet Jewelers Ltd,0.0044
+SLY,JBT,John Bean Technologies Corp,0.0044
+SLY,AMN,Amn Healthcare Services Inc,0.0044
+SLY,MTDR,Matador Resources Company,0.0043
+SLY,LTHM,Livent Corp,0.0043
+SLY,MXL,Maxlinear Inc,0.0042
+SLY,DIOD,Diodes Inc,0.0041
+SLY,KFY,Korn/Ferry International,0.004
+SLY,CNMD,C O N M E D Cp,0.004
+SLY,SM,Sm Energy Company,0.0039
+SLY,MTH,Meritage Corp,0.0039
+SLY,ENSG,The Ensign Group IN,0.0038
+SLY,PRFT,Perficient Inc,0.0038
+SLY,EXLS,Exlservice Holdings,0.0038
+SLY,VG,Vonage Holdings,0.0038
+SLY,AGO,Assured Guaranty Ltd,0.0038
+SLY,LXP,Lexington Realty Trust,0.0038
+SLY,PPBI,Pacific Premier Bncp,0.0037
+SLY,SFBS,Servisfirst Bancs,0.0037
+SLY,ONTO,Onto Innovation Inc,0.0037
+SLY,CBU,Community Bank System,0.0036
+SLY,ALRM,Alarm.com,0.0036
+SLY,WD,Walker & Dunlop,0.0036
+SLY,AIT,Applied Industrial Technologies,0.0036
+SLY,ABG,Asbury Automotive Group Inc,0.0036
+SLY,COOP,Mr.Cooper Group Inc,0.0036
+SLY,ROG,Rogers Corp,0.0035
+SLY,BKU,BankUnited Inc,0.0035
+SLY,FUL,H. B. Fuller Company,0.0035
+SLY,CELH,Celsius Holdings Inc,0.0034
+SLY,MATX,Matson Inc,0.0034
+SLY,FHB,First Hawaiian Inc,0.0034
+SLY,REZI,Resideo Technologies Inc,0.0034
+SLY,FN,Fabrinet,0.0033
+SLY,DDD,3D Systems Corp,0.0033
+SLY,LCII,Lci Industries,0.0033
+SLY,KLIC,Kulicke and Soffa,0.0033
+SLY,SEM,Select Medical Holdings Corp,0.0033
+SLY,AEIS,Advanced Energy,0.0033
+SLY,EPRT,Essential Properties Realty Trust Inc,0.0033
+SLY,VIAV,Viavi Solutions,0.0033
+SLY,ITRI,Itron Inc,0.0033
+SLY,TRUP,Trupanion Inc,0.0033
+SLY,SHOO,Steven Maddens Ltd,0.0033
+SLY,ABCB,Ameris Bancorp,0.0033
+SLY,ISBC,Investors Bancorp,0.0032
+SLY,MMSI,Merit Medical Sys,0.0032
+SLY,FELE,Franklin Electric Company,0.0032
+SLY,AWR,American States Water Company,0.0032
+SLY,HP,Helmerich & Payne,0.0032
+SLY,SMPL,The Simply Good Foods Company,0.0031
+SLY,LPSN,Liveperson Inc,0.0031
+SLY,UNIT,Uniti Group Inc,0.0031
+SLY,FIX,Comfort Systems USA,0.0031
+SLY,HI,Hillenbrand Inc,0.0031
+SLY,SWN,Southwestern Energy Company,0.0031
+SLY,NSIT,Insight Enterpr,0.0031
+SLY,KWR,Quaker Chemical Corp,0.0031
+SLY,AJRD,Aerojet Rocketdyne Holdings,0.0031
+SLY,GPI,Group 1 Automotive,0.0031
+SLY,CCOI,Cogent Comm Hlds,0.0031
+SLY,LGIH,LGI Homes Inc,0.003
+SLY,VICR,Vicor Cp,0.003
+SLY,SFNC,Simmons First Natl,0.003
+SLY,RCII,Rent-A-Center Inc,0.003
+SLY,ARNC,Arconic Corp,0.003
+SLY,REGI,Renewable Energy,0.003
+SLY,CWT,California Water Service Group Holding,0.003
+SLY,FLOW,SPX Flow Inc,0.0029
+SLY,WDFC,W D 40 Company,0.0029
+SLY,BOOT,Boot Barn Holdings Inc,0.0029
+SLY,FORM,Formfactor Inc,0.0029
+SLY,UNF,Unifirst Corp,0.0028
+SLY,UCBI,United Comm Banks,0.0028
+SLY,MLI,Mueller Industries,0.0028
+SLY,PBH,Prestige Brand Holdings,0.0028
+SLY,DORM,Dorman Products Inc,0.0028
+SLY,IBP,Installed Building Products,0.0028
+SLY,BMI,Badger Meter,0.0028
+SLY,ITGR,Integer Holdings Corp,0.0028
+SLY,AAON,Aaon Inc,0.0028
+SLY,ABM,ABM Industries Inc,0.0028
+SLY,CYTK,Cytokinetics,0.0027
+SLY,SITC,Site Centers Corp,0.0027
+SLY,FBP,First Bancorp,0.0027
+SLY,SSTK,Shutterstock Inc,0.0027
+SLYG,OMCL,Omnicell Inc,0.0155
+SLYG,GTLS,Chart Industries IN,0.0127
+SLYG,IIPR,Innovative Industrial Properties,0.0126
+SLYG,POWI,Power Integratn,0.0125
+SLYG,EXPO,Exponent Inc,0.012
+SLYG,NEO,Neogenomics Inc,0.0114
+SLYG,SPSC,Sps Commerce Inc,0.011
+SLYG,BCPC,Balchem Cp,0.01
+SLYG,LTHM,Livent Corp,0.0092
+SLYG,MXL,Maxlinear Inc,0.0089
+SLYG,DIOD,Diodes Inc,0.0087
+SLYG,PRFT,Perficient Inc,0.0082
+SLYG,MTH,Meritage Corp,0.0082
+SLYG,EXLS,Exlservice Holdings,0.0082
+SLYG,ENSG,The Ensign Group IN,0.0082
+SLYG,VG,Vonage Holdings,0.0082
+SLYG,SFBS,Servisfirst Bancs,0.0079
+SLYG,ONTO,Onto Innovation Inc,0.0078
+SLYG,ALRM,Alarm.com,0.0078
+SLYG,WD,Walker & Dunlop,0.0076
+SLYG,COOP,Mr.Cooper Group Inc,0.0076
+SLYG,CELH,Celsius Holdings Inc,0.0074
+SLYG,MATX,Matson Inc,0.0073
+SLYG,LCII,Lci Industries,0.0071
+SLYG,AEIS,Advanced Energy,0.0071
+SLYG,EPRT,Essential Properties Realty Trust Inc,0.0071
+SLYG,VIAV,Viavi Solutions,0.0071
+SLYG,TRUP,Trupanion Inc,0.007
+SLYG,RRC,Range Resources Corp,0.0069
+SLYG,MMSI,Merit Medical Sys,0.0068
+SLYG,WTS,Watts Water Technologies,0.0068
+SLYG,FELE,Franklin Electric Company,0.0068
+SLYG,LPSN,Liveperson Inc,0.0067
+SLYG,FIX,Comfort Systems USA,0.0067
+SLYG,KWR,Quaker Chemical Corp,0.0066
+SLYG,LGIH,LGI Homes Inc,0.0065
+SLYG,VICR,Vicor Cp,0.0065
+SLYG,RCII,Rent-A-Center Inc,0.0065
+SLYG,REGI,Renewable Energy,0.0065
+SLYG,WDFC,W D 40 Company,0.0063
+SLYG,FORM,Formfactor Inc,0.0062
+SLYG,DORM,Dorman Products Inc,0.006
+SLYG,BMI,Badger Meter,0.006
+SLYG,IBP,Installed Building Products,0.006
+SLYG,AAON,Aaon Inc,0.006
+SLYG,AMN,Amn Healthcare Services Inc,0.0059
+SLYG,CYTK,Cytokinetics,0.0059
+SLYG,JBT,John Bean Technologies Corp,0.0058
+SLYG,SSTK,Shutterstock Inc,0.0057
+SLYG,AX,Axos Financial Inc,0.0057
+SLYG,TBK,Triumph Bancorp,0.0056
+SLYG,FWRD,Foward Air Corp,0.0055
+SLYG,SHAK,Shake Shack Inc,0.0054
+SLYG,EVTC,Evertec Inc,0.0054
+SLYG,FSS,Federal Signal Corp,0.0052
+SLYG,UFPI,Universal Forest Prd,0.0052
+SLYG,EGHT,8X8 Inc,0.0051
+SLYG,ADC,Agree Realty Corp,0.0049
+SLYG,HSKA,Heska Corp,0.0048
+SLYG,VSTO,Vista Outdoor Inc,0.0048
+SLYG,CNMD,C O N M E D Cp,0.0048
+SLYG,TTGT,Techtarget Inc,0.0048
+SLYG,IRBT,Irobot Corp,0.0047
+SLYG,PCRX,Pacira Pharm Inc,0.0046
+SLYG,AIT,Applied Industrial Technologies,0.0046
+SLYG,GDOT,Green Dot Corp,0.0046
+SLYG,XNCR,Xencor Inc,0.0046
+SLYG,MED,Medifast Inc,0.0046
+SLYG,VRTS,Virtus Inv Partners,0.0046
+SLYG,FN,Fabrinet,0.0045
+SLYG,UCTT,Ultra Clean Holdings,0.0045
+SLYG,PLMR,Palomar Holdings Inc,0.0044
+SLYG,HI,Hillenbrand Inc,0.0044
+SLYG,VCEL,Vericel Corproation,0.0043
+SLYG,UNIT,Uniti Group Inc,0.0043
+SLYG,ROCK,Gibraltar Ind Inc,0.0043
+SLYG,SNBR,Sleep Number Corp,0.0043
+SLYG,NMIH,Nmi Holdings Inc,0.0042
+SLYG,AVAV,Aerovironment Inc,0.0041
+SLYG,CCOI,Cogent Comm Hlds,0.0041
+SLYG,MODV,Modivcare Inc,0.0041
+SLYG,ROG,Rogers Corp,0.0041
+SLYG,CCS,Century Communities Inc,0.0041
+SLYG,PRAA,Pra Group Inc,0.004
+SLYG,MTDR,Matador Resources Company,0.004
+SLYG,BGS,B&G Foods Holdings,0.0039
+SLYG,SWN,Southwestern Energy Company,0.0038
+SLYG,CORT,Corcept Therapeutics,0.0038
+SLYG,BOOT,Boot Barn Holdings Inc,0.0038
+SLYG,CWT,California Water Service Group Holding,0.0038
+SLYG,FUL,H. B. Fuller Company,0.0038
+SLYG,ITRI,Itron Inc,0.0037
+SLYG,TREE,Lendingtree Inc,0.0037
+SLYG,CBU,Community Bank System,0.0037
+SLYG,AWR,American States Water Company,0.0037
+SLYG,ARNC,Arconic Corp,0.0037
+SLYG,SEM,Select Medical Holdings Corp,0.0037
+SLYG,BSIG,Brightsphere Investment Group Plc,0.0036
+SLYG,PATK,Patrick Inds Inc,0.0036
+SLYG,KLIC,Kulicke and Soffa,0.0035
+XLK,MSFT,Microsoft Corp,0.2279
+XLK,AAPL,Apple Inc,0.2151
+XLK,NVDA,Nvidia Corp,0.0583
+XLK,V,Visa Inc,0.0327
+XLK,ADBE,Adobe Systems Inc,0.0283
+XLK,MA,Mastercard Inc,0.0267
+XLK,CRM,Salesforce.com Inc,0.0266
+XLK,PYPL,Paypal Holdings,0.025
+XLK,CSCO,Cisco Systems Inc,0.0216
+XLK,ACN,Accenture Plc,0.0208
+XLK,AVGO,Broadcom Ltd,0.02
+XLK,INTC,Intel Corp,0.0182
+XLK,TXN,Texas Instruments,0.0158
+XLK,INTU,Intuit Inc,0.0156
+XLK,ORCL,Oracle Corp,0.0145
+XLK,QCOM,Qualcomm Inc,0.0137
+XLK,AMD,Adv Micro Devices,0.0133
+XLK,NOW,Servicenow Inc,0.0126
+XLK,AMAT,Applied Materials,0.0114
+XLK,IBM,International Business Machines,0.0103
+XLK,ADP,Automatic Data Procs,0.0087
+XLK,ADI,Analog Devices,0.0085
+XLK,LRCX,Lam Research Corp,0.0073
+XLK,MU,Micron Technology,0.0071
+XLK,ADSK,Autodesk Inc,0.0064
+XLK,FIS,Fidelity National Information Services,0.0063
+XLK,FISV,Fiserv Inc,0.0054
+XLK,KLAC,K L A-Tencor Corp,0.0052
+XLK,NXPI,Nxp Semiconductors,0.0049
+XLK,SNPS,Synopsys Inc,0.0046
+XLK,CDNS,Cadence Design Sys,0.0044
+XLK,TEL,Te Connectivity Ltd,0.0044
+XLK,APH,Amphenol Corp,0.0042
+XLK,FTNT,Fortinet Inc,0.0042
+XLK,XLNX,Xilinx Inc,0.0041
+XLK,MSI,Motorola Solutions,0.0038
+XLK,GPN,Global Payments Inc,0.0038
+XLK,CTSH,Cognizant Tech Sol,0.0038
+XLK,MCHP,Microchip Technology,0.0037
+XLK,PAYX,Paychex Inc,0.0036
+XLK,HPQ,HP Inc,0.0033
+XLK,KEYS,Keysight Technologies Inc Comm,0.003
+XLK,ANSS,Ansys Inc,0.003
+XLK,ENPH,Enphase Energy Inc,0.0029
+XLK,ZBRA,Zebra Technologies,0.0026
+XLK,IT,Gartner Inc,0.0025
+XLK,SWKS,Skyworks Solutions,0.0025
+XLK,GLW,Corning Inc,0.0025
+XLK,PAYC,Paycom Software Inc,0.0024
+XLK,CDW,CDW Corp,0.0023
+XLK,ANET,Arista Networks Inc,0.0021
+XLK,TER,Teradyne Inc,0.0021
+XLK,MPWR,Monolithic Power Sys,0.0021
+XLK,TYL,Tyler Technologies,0.002
+XLK,TRMB,Trimble Navigation,0.002
+XLK,VRSN,Verisign Inc,0.002
+XLK,TDY,Teledyne Technologies Inc,0.0019
+XLK,BR,Broadridge Financial Solutions Llc,0.0019
+XLK,FLT,Fleetcor Technologies,0.0019
+XLK,NTAP,Netapp Inc,0.0018
+XLK,HPE,Hewlett Packard Enterprise Comp,0.0017
+XLK,QRVO,Qorvo Inc,0.0017
+XLK,STX,Seagate Technology Hldgs Plc,0.0017
+XLK,AKAM,Akamai Technologies,0.0016
+XLK,CDAY,Ceridian Hcm Holding Inc,0.0015
+XLK,WDC,Western Digital Cp,0.0015
+XLK,NLOK,Nortonlifelock Inc,0.0014
+XLK,PTC,Ptc Inc,0.0012
+XLK,FFIV,F5 Networks Inc,0.0012
+XLK,JKHY,Jack Henry & Assoc,0.0011
+XLK,CTXS,Citrix Systems Inc,0.0011
+XLK,JNPR,Juniper Networks,0.0009
+XLK,DXC,Dxc Technology Company,0.0007
+XLK,WU,Western Union Company,0.0007
+XLK,IPGP,Ipg Photonics Corp,0.0005
